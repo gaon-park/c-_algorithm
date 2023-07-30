@@ -7,14 +7,14 @@
 | 연습 문제 | 15649 | [N과 M (1)](https://www.acmicpc.net/problem/15649) | o |
 | 연습 문제 | 9663 | [N-Queen](https://www.acmicpc.net/problem/9663) | o |
 | 연습 문제 | 1182 | [부분수열의 합](https://www.acmicpc.net/problem/1182) | o |
-| 기본 문제✔ | 15650 | [N과 M (2)](https://www.acmicpc.net/problem/15650) | x |
-| 기본 문제✔ | 15651 | [N과 M (3)](https://www.acmicpc.net/problem/15651) | x |
-| 기본 문제✔ | 15652 | [N과 M (4)](https://www.acmicpc.net/problem/15652) | x |
-| 기본 문제✔ | 15654 | [N과 M (5)](https://www.acmicpc.net/problem/15654) | x |
-| 기본 문제✔ | 15655 | [N과 M (6)](https://www.acmicpc.net/problem/15655) | x |
-| 기본 문제✔ | 15656 | [N과 M (7)](https://www.acmicpc.net/problem/15656) | x |
-| 기본 문제✔ | 15657 | [N과 M (8)](https://www.acmicpc.net/problem/15657) | x |
-| 기본 문제✔ | 15663 | [N과 M (9)](https://www.acmicpc.net/problem/15663) | x |
+| 기본 문제✔ | 15650 | [N과 M (2)](https://www.acmicpc.net/problem/15650) | o |
+| 기본 문제✔ | 15651 | [N과 M (3)](https://www.acmicpc.net/problem/15651) | o |
+| 기본 문제✔ | 15652 | [N과 M (4)](https://www.acmicpc.net/problem/15652) | o |
+| 기본 문제✔ | 15654 | [N과 M (5)](https://www.acmicpc.net/problem/15654) | o |
+| 기본 문제✔ | 15655 | [N과 M (6)](https://www.acmicpc.net/problem/15655) | o |
+| 기본 문제✔ | 15656 | [N과 M (7)](https://www.acmicpc.net/problem/15656) | o |
+| 기본 문제✔ | 15657 | [N과 M (8)](https://www.acmicpc.net/problem/15657) | o |
+| 기본 문제✔ | 15663 | [N과 M (9)](https://www.acmicpc.net/problem/15663) | o |
 | 기본 문제✔ | 15664 | [N과 M (10)](https://www.acmicpc.net/problem/15664) | x |
 | 기본 문제✔ | 15665 | [N과 M (11)](https://www.acmicpc.net/problem/15665) | x |
 | 기본 문제✔ | 15666 | [N과 M (12)](https://www.acmicpc.net/problem/15666) | x |
