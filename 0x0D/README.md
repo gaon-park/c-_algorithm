@@ -7,7 +7,7 @@
 | 연습 문제 | 15683 | [감시](https://www.acmicpc.net/problem/15683) | o |
 | 연습 문제 | 18808 | [스티커 붙이기](https://www.acmicpc.net/problem/18808) | o |
 | 연습 문제 | 12100 | [2048 (Easy)](https://www.acmicpc.net/problem/12100) | o |
-| 연습 문제 | 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686) | x |
+| 연습 문제 | 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686) | o |
 | 기본 문제✔ | 11559 | [Puyo Puyo](https://www.acmicpc.net/problem/11559) | x |
 | 기본 문제✔ | 14891 | [톱니바퀴](https://www.acmicpc.net/problem/14891) | x |
 | 기본 문제✔ | 14499 | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | x |
