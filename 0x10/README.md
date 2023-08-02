@@ -4,9 +4,9 @@
 
 | 문제 분류 | 문제 | 문제 제목 | 해결 |
 | :--: | :--: | :--: | :--: |
-| 연습 문제 | 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | x |
-| 연습 문제 | 9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | x |
-| 연습 문제 | 2579 | [계단 오르기](https://www.acmicpc.net/problem/2579) | x |
+| 연습 문제 | 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | o |
+| 연습 문제 | 9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | o |
+| 연습 문제 | 2579 | [계단 오르기](https://www.acmicpc.net/problem/2579) | o |
 | 연습 문제 | 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | x |
 | 연습 문제 | 11726 | [2×n 타일링](https://www.acmicpc.net/problem/11726) | x |
 | 연습 문제 | 11659 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | x |
