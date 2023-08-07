@@ -10,9 +10,9 @@
 | 연습 문제 | 1026 | [보물](https://www.acmicpc.net/problem/1026) | o |
 | 기본 문제✔ | 11399 | [ATM](https://www.acmicpc.net/problem/11399) | o |
 | 기본 문제✔ | 2457 | [공주님의 정원](https://www.acmicpc.net/problem/2457) | o |
-| 기본 문제✔ | 1541 | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | x |
-| 기본 문제✔ | 11501 | [주식](https://www.acmicpc.net/problem/11501) | x |
-| 기본 문제✔ | 1744 | [수 묶기](https://www.acmicpc.net/problem/1744) | x |
+| 기본 문제✔ | 1541 | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | o |
+| 기본 문제✔ | 11501 | [주식](https://www.acmicpc.net/problem/11501) | o |
+| 기본 문제✔ | 1744 | [수 묶기](https://www.acmicpc.net/problem/1744) | o |
 | 기본 문제 | 2847 | [게임을 만든 동준이](https://www.acmicpc.net/problem/2847) | x |
 | 기본 문제 | 1439 | [뒤집기](https://www.acmicpc.net/problem/1439) | x |
 | 기본 문제 | 11000 | [강의실 배정](https://www.acmicpc.net/problem/11000) | x |
