@@ -4,16 +4,16 @@
 
 | 문제 분류 | 문제 | 문제 제목 | 해결 |
 | :--: | :--: | :--: | :--: |
-| 연습 문제 | 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | x |
-| 연습 문제 | 1929 | [소수 구하기](https://www.acmicpc.net/problem/1929) | x |
-| 연습 문제 | 11653 | [소인수분해](https://www.acmicpc.net/problem/11653) | x |
-| 연습 문제 | 6064 | [카잉 달력](https://www.acmicpc.net/problem/6064) | x |
-| 연습 문제 | 11050 | [이항 계수 1](https://www.acmicpc.net/problem/11050) | x |
-| 연습 문제 | 11051 | [이항 계수 2](https://www.acmicpc.net/problem/11051) | x |
-| 기본 문제✔ | 15894 | [수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894) | x |
-| 기본 문제✔ | 4796 | [캠핑](https://www.acmicpc.net/problem/4796) | x |
-| 기본 문제✔ | 2960 | [에라토스테네스의 체](https://www.acmicpc.net/problem/2960) | x |
-| 기본 문제✔ | 1193 | [분수찾기](https://www.acmicpc.net/problem/1193) | x |
+| 연습 문제 | 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | o |
+| 연습 문제 | 1929 | [소수 구하기](https://www.acmicpc.net/problem/1929) | o |
+| 연습 문제 | 11653 | [소인수분해](https://www.acmicpc.net/problem/11653) | o |
+| 연습 문제 | 6064 | [카잉 달력](https://www.acmicpc.net/problem/6064) | o |
+| 연습 문제 | 11050 | [이항 계수 1](https://www.acmicpc.net/problem/11050) | o |
+| 연습 문제 | 11051 | [이항 계수 2](https://www.acmicpc.net/problem/11051) | o |
+| 기본 문제✔ | 15894 | [수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894) | o |
+| 기본 문제✔ | 4796 | [캠핑](https://www.acmicpc.net/problem/4796) | o |
+| 기본 문제✔ | 2960 | [에라토스테네스의 체](https://www.acmicpc.net/problem/2960) | o |
+| 기본 문제✔ | 1193 | [분수찾기](https://www.acmicpc.net/problem/1193) | o |
 | 기본 문제✔ | 4948 | [베르트랑 공준](https://www.acmicpc.net/problem/4948) | x |
 | 기본 문제✔ | 1676 | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | x |
 | 기본 문제✔ | 9613 | [GCD 합](https://www.acmicpc.net/problem/9613) | x |
