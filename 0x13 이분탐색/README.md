@@ -4,11 +4,11 @@
 
 | 문제 분류 | 문제 | 문제 제목 | 해결 |
 | :--: | :--: | :--: | :--: |
-| 연습 문제 | 1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | x |
-| 연습 문제 | 10816 | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | x |
-| 연습 문제 | 18870 | [좌표 압축](https://www.acmicpc.net/problem/18870) | x |
-| 연습 문제 | 2295 | [세 수의 합](https://www.acmicpc.net/problem/2295) | x |
-| 연습 문제 | 1654 | [랜선 자르기](https://www.acmicpc.net/problem/1654) | x |
+| 연습 문제 | 1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | o |
+| 연습 문제 | 10816 | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | o |
+| 연습 문제 | 18870 | [좌표 압축](https://www.acmicpc.net/problem/18870) | o |
+| 연습 문제 | 2295 | [세 수의 합](https://www.acmicpc.net/problem/2295) | o |
+| 연습 문제 | 1654 | [랜선 자르기](https://www.acmicpc.net/problem/1654) | o |
 | 기본 문제✔ | 10815 | [숫자 카드](https://www.acmicpc.net/problem/10815) | x |
 | 기본 문제✔ | 1822 | [차집합](https://www.acmicpc.net/problem/1822) | x |
 | 기본 문제✔ | 16401 | [과자 나눠주기](https://www.acmicpc.net/problem/16401) | x |
