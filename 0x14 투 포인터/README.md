@@ -6,7 +6,7 @@
 | :--: | :--: | :--: | :--: |
 | 연습 문제 | 2230 | [수 고르기](https://www.acmicpc.net/problem/2230) | o |
 | 연습 문제 | 1806 | [부분합](https://www.acmicpc.net/problem/1806) | o |
-| 기본 문제✔ | 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | x |
+| 기본 문제✔ | 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | o |
 | 기본 문제✔ | 2003 | [수들의 합 2](https://www.acmicpc.net/problem/2003) | x |
 | 응용 문제✔ | 13144 | [List of Unique Numbers](https://www.acmicpc.net/problem/13144) | x |
 | 응용 문제✔ | 22862 | [가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862) | x |
