@@ -8,7 +8,7 @@
 | 기본 문제✔ | 10773 | [제로](https://www.acmicpc.net/problem/10773) | o |
 | 응용 문제✔ | 1874 | [스택 수열](https://www.acmicpc.net/problem/1874) | o |
 | 응용 문제✔ | 2493 | [탑](https://www.acmicpc.net/problem/2493) | o |
-| 응용 문제 | 6198 | [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198) | x |
+| 응용 문제 | 6198 | [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198) | o |
 | 응용 문제 | 17298 | [오큰수](https://www.acmicpc.net/problem/17298) | o |
 | 응용 문제 | 3015 | [오아시스 재결합](https://www.acmicpc.net/problem/3015) | o |
 | 응용 문제 | 6549 | [히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549) | x |
