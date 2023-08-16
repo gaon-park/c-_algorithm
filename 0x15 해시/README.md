@@ -4,7 +4,7 @@
 
 | 문제 분류 | 문제 | 문제 제목 | 해결 |
 | :--: | :--: | :--: | :--: |
-| 연습 문제 | 7785 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | x |
+| 연습 문제 | 7785 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | o |
 | 연습 문제 | 1620 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | x |
 | 기본 문제✔ | 13414 | [수강신청](https://www.acmicpc.net/problem/13414) | x |
 | 기본 문제✔ | 17219 | [비밀번호 찾기](https://www.acmicpc.net/problem/17219) | x |
