@@ -12,7 +12,7 @@
 | 기본 문제✔ | 10815 | [숫자 카드](https://www.acmicpc.net/problem/10815) | x |
 | 기본 문제✔ | 1822 | [차집합](https://www.acmicpc.net/problem/1822) | x |
 | 기본 문제✔ | 16401 | [과자 나눠주기](https://www.acmicpc.net/problem/16401) | x |
-| 기본 문제✔ | 2805 | [나무 자르기](https://www.acmicpc.net/problem/2805) | x |
+| 기본 문제✔ | 2805 | [나무 자르기](https://www.acmicpc.net/problem/2805) | o |
 | 기본 문제✔ | 18869 | [멀티버스 Ⅱ](https://www.acmicpc.net/problem/18869) | x |
 | 기본 문제✔ | 2467 | [용액](https://www.acmicpc.net/problem/2467) | x |
 | 기본 문제✔ | 3151 | [합이 0](https://www.acmicpc.net/problem/3151) | x |
