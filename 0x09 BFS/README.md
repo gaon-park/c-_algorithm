@@ -18,7 +18,7 @@
 | 기본 문제 | 2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | x |
 | 기본 문제 | 5014 | [스타트링크](https://www.acmicpc.net/problem/5014) | x |
 | 기본 문제 | 2468 | [안전 영역](https://www.acmicpc.net/problem/2468) | x |
-| 기본 문제 | 6593 | [상범 빌딩](https://www.acmicpc.net/problem/6593) | x |
+| 기본 문제 | 6593 | [상범 빌딩](https://www.acmicpc.net/problem/6593) | o |
 | 응용 문제✔ | 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | x |
 | 응용 문제✔ | 9466 | [텀 프로젝트](https://www.acmicpc.net/problem/9466) | x |
 | 응용 문제✔ | 2573 | [빙산](https://www.acmicpc.net/problem/2573) | x |
