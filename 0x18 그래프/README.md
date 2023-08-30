@@ -5,7 +5,7 @@
 | 문제 분류 | 문제 | 문제 제목 | 해결 |
 | :--: | :--: | :--: | :--: |
 | 연습 문제 | 11724 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | o |
-| 연습 문제 | 1260 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | x |
+| 연습 문제 | 1260 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | o |
 | 기본 문제✔ | 2606 | [바이러스](https://www.acmicpc.net/problem/2606) | x |
 | 기본 문제✔ | 5567 | [결혼식](https://www.acmicpc.net/problem/5567) | x |
 | 기본 문제✔ | 11403 | [경로 찾기](https://www.acmicpc.net/problem/11403) | x |
