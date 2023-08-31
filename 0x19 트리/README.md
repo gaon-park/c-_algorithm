@@ -4,7 +4,7 @@
 
 | 문제 분류 | 문제 | 문제 제목 | 해결 |
 | :--: | :--: | :--: | :--: |
-| 연습 문제 | 11725 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | x |
+| 연습 문제 | 11725 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | o |
 | 연습 문제 | 1991 | [트리 순회](https://www.acmicpc.net/problem/1991) | x |
 | 기본 문제✔ | 4803 | [트리](https://www.acmicpc.net/problem/4803) | x |
 | 기본 문제✔ | 15681 | [트리와 쿼리](https://www.acmicpc.net/problem/15681) | x |
