@@ -8,7 +8,7 @@
 | 연습 문제 | 1991 | [트리 순회](https://www.acmicpc.net/problem/1991) | o |
 | 기본 문제✔ | 4803 | [트리](https://www.acmicpc.net/problem/4803) | o |
 | 기본 문제✔ | 15681 | [트리와 쿼리](https://www.acmicpc.net/problem/15681) | o |
-| 기본 문제✔ | 1240 | [노드사이의 거리](https://www.acmicpc.net/problem/1240) | x |
+| 기본 문제✔ | 1240 | [노드사이의 거리](https://www.acmicpc.net/problem/1240) | o |
 | 기본 문제 | 22856 | [트리 순회](https://www.acmicpc.net/problem/22856) | x |
 | 기본 문제 | 1068 | [트리](https://www.acmicpc.net/problem/1068) | x |
 | 응용 문제✔ | 20955 | [민서의 응급 수술](https://www.acmicpc.net/problem/20955) | x |
