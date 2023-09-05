@@ -4,7 +4,7 @@
 
 | 문제 분류 | 문제 | 문제 제목 | 해결 |
 | :--: | :--: | :--: | :--: |
-| 연습 문제 | 2252 | [줄 세우기](https://www.acmicpc.net/problem/2252) | x |
+| 연습 문제 | 2252 | [줄 세우기](https://www.acmicpc.net/problem/2252) | o |
 | 기본 문제✔ | 2623 | [음악프로그램](https://www.acmicpc.net/problem/2623) | x |
 | 기본 문제✔ | 21276 | [계보 복원가 호석](https://www.acmicpc.net/problem/21276) | x |
 | 응용 문제✔ | 1766 | [문제집](https://www.acmicpc.net/problem/1766) | x |
