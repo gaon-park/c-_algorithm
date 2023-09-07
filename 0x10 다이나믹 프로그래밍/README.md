@@ -35,7 +35,7 @@
 | 기본 문제 | 1904 | [01타일](https://www.acmicpc.net/problem/1904) | x |
 | 기본 문제 | 1788 | [피보나치 수의 확장](https://www.acmicpc.net/problem/1788) | x |
 | 기본 문제 | 4883 | [삼각 그래프](https://www.acmicpc.net/problem/4883) | x |
-| 응용 문제✔ | 9251 | [LCS](https://www.acmicpc.net/problem/9251) | x |
+| 응용 문제✔ | 9251 | [LCS](https://www.acmicpc.net/problem/9251) | o |
 | 응용 문제✔ | 1699 | [제곱수의 합](https://www.acmicpc.net/problem/1699) | x |
 | 응용 문제✔ | 9084 | [동전](https://www.acmicpc.net/problem/9084) | x |
 | 응용 문제✔ | 1915 | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) | x |
