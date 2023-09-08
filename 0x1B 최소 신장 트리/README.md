@@ -4,7 +4,7 @@
 
 | 문제 분류 | 문제 | 문제 제목 | 해결 |
 | :--: | :--: | :--: | :--: |
-| 연습 문제 | 1197 | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | x |
+| 연습 문제 | 1197 | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | o |
 | 연습 문제 | 1368 | [물대기](https://www.acmicpc.net/problem/1368) | o |
 | 기본 문제✔ | 9372 | [상근이의 여행](https://www.acmicpc.net/problem/9372) | x |
 | 기본 문제✔ | 16398 | [행성 연결](https://www.acmicpc.net/problem/16398) | x |
