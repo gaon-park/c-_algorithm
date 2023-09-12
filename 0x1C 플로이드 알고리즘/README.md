@@ -6,7 +6,7 @@
 | :--: | :--: | :--: | :--: |
 | 연습 문제 | 11404 | [플로이드](https://www.acmicpc.net/problem/11404) | o |
 | 연습 문제 | 11780 | [플로이드 2](https://www.acmicpc.net/problem/11780) | o |
-| 기본 문제✔ | 14938 | [서강그라운드](https://www.acmicpc.net/problem/14938) | x |
+| 기본 문제✔ | 14938 | [서강그라운드](https://www.acmicpc.net/problem/14938) | o |
 | 기본 문제✔ | 21940 | [가운데에서 만나기](https://www.acmicpc.net/problem/21940) | x |
 | 기본 문제 | 17182 | [우주 탐사선](https://www.acmicpc.net/problem/17182) | x |
 | 기본 문제 | 13168 | [내일로 여행](https://www.acmicpc.net/problem/13168) | x |
