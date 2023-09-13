@@ -5,7 +5,7 @@
 | 문제 분류 | 문제 | 문제 제목 | 해결 |
 | :--: | :--: | :--: | :--: |
 | 연습 문제 | 1753 | [최단경로](https://www.acmicpc.net/problem/1753) | o |
-| 연습 문제 | 11779 | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | x |
+| 연습 문제 | 11779 | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | o |
 | 기본 문제✔ | 1238 | [파티](https://www.acmicpc.net/problem/1238) | x |
 | 기본 문제✔ | 1504 | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) | x |
 | 기본 문제 | 1916 | [최소비용 구하기](https://www.acmicpc.net/problem/1916) | x |
