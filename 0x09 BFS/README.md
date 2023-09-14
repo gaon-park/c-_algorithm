@@ -13,7 +13,7 @@
 | 기본 문제✔ | 10026 | [적록색약](https://www.acmicpc.net/problem/10026) | o |
 | 기본 문제✔ | 7569 | [토마토](https://www.acmicpc.net/problem/7569) | java |
 | 기본 문제✔ | 7562 | [나이트의 이동](https://www.acmicpc.net/problem/7562) | x |
-| 기본 문제✔ | 5427 | [불](https://www.acmicpc.net/problem/5427) | x |
+| 기본 문제✔ | 5427 | [불](https://www.acmicpc.net/problem/5427) | o |
 | 기본 문제 | 2583 | [영역 구하기](https://www.acmicpc.net/problem/2583) | x |
 | 기본 문제 | 2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | x |
 | 기본 문제 | 5014 | [스타트링크](https://www.acmicpc.net/problem/5014) | x |
