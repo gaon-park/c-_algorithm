@@ -15,5 +15,5 @@
 | 기본 문제 | 6118 | [숨바꼭질](https://www.acmicpc.net/problem/6118) | x |
 | 응용 문제✔ | 1707 | [이분 그래프](https://www.acmicpc.net/problem/1707) | x |
 | 응용 문제✔ | 2617 | [구슬 찾기](https://www.acmicpc.net/problem/2617) | x |
-| 응용 문제✔ | 1043 | [거짓말](https://www.acmicpc.net/problem/1043) | x |
+| 응용 문제✔ | 1043 | [거짓말](https://www.acmicpc.net/problem/1043) | o |
 | 응용 문제 | 5214 | [환승](https://www.acmicpc.net/problem/5214) | x |
