@@ -23,7 +23,7 @@
 | 기본 문제✔ | 14890 | [경사로](https://www.acmicpc.net/problem/14890) | x |
 | 기본 문제✔ | 15684 | [사다리 조작](https://www.acmicpc.net/problem/15684) | x |
 | 기본 문제✔ | 15685 | [드래곤 커브](https://www.acmicpc.net/problem/15685) | x |
-| 기본 문제 | 17281 | [⚾](https://www.acmicpc.net/problem/17281) | x |
+| 기본 문제 | 17281 | [⚾](https://www.acmicpc.net/problem/17281) | o |
 | 기본 문제 | 5373 | [큐빙](https://www.acmicpc.net/problem/5373) | x |
 | 기본 문제 | 16234 | [인구 이동](https://www.acmicpc.net/problem/16234) | x |
 | 기본 문제 | 16235 | [나무 재테크](https://www.acmicpc.net/problem/16235) | x |
