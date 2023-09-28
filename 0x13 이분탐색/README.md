@@ -15,7 +15,7 @@
 | 기본 문제✔ | 2805 | [나무 자르기](https://www.acmicpc.net/problem/2805) | o |
 | 기본 문제✔ | 18869 | [멀티버스 Ⅱ](https://www.acmicpc.net/problem/18869) | o |
 | 기본 문제✔ | 2467 | [용액](https://www.acmicpc.net/problem/2467) | o |
-| 기본 문제✔ | 3151 | [합이 0](https://www.acmicpc.net/problem/3151) | x |
+| 기본 문제✔ | 3151 | [합이 0](https://www.acmicpc.net/problem/3151) | o |
 | 기본 문제 | 14921 | [용액 합성하기](https://www.acmicpc.net/problem/14921) | x |
 | 기본 문제 | 1253 | [좋다](https://www.acmicpc.net/problem/1253) | x |
 | 기본 문제 | 2143 | [두 배열의 합](https://www.acmicpc.net/problem/2143) | x |
