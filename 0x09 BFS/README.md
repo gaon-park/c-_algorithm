@@ -25,7 +25,7 @@
 | 응용 문제✔ | 2146 | [다리 만들기](https://www.acmicpc.net/problem/2146) | o |
 | 응용 문제✔ | 13549 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549) | o |
 | 응용 문제✔ | 1600 | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | o |
-| 응용 문제 | 13913 | [숨바꼭질 4](https://www.acmicpc.net/problem/13913) | x |
+| 응용 문제 | 13913 | [숨바꼭질 4](https://www.acmicpc.net/problem/13913) | o |
 | 응용 문제 | 14442 | [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) | o |
 | 응용 문제 | 16933 | [벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933) | x |
 | 응용 문제 | 16920 | [확장 게임](https://www.acmicpc.net/problem/16920) | x |
