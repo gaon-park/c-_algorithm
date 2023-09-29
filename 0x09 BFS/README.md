@@ -32,5 +32,5 @@
 | 응용 문제 | 11967 | [불켜기](https://www.acmicpc.net/problem/11967) | ⭐️ |
 | 응용 문제 | 17071 | [숨바꼭질 5](https://www.acmicpc.net/problem/17071) | ⭐️ |
 | 응용 문제 | 9328 | [열쇠](https://www.acmicpc.net/problem/9328) | o |
-| 응용 문제 | 3197 | [백조의 호수](https://www.acmicpc.net/problem/3197) | x |
+| 응용 문제 | 3197 | [백조의 호수](https://www.acmicpc.net/problem/3197) | o |
 | 응용 문제 | 20304 | [비밀번호 제작](https://www.acmicpc.net/problem/20304) | x |
