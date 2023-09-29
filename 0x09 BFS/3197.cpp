@@ -2,62 +2,76 @@
 #include <algorithm>
 #include <vector>
 #include <queue>
-#include <set>
+#include <unordered_set>
 
 using namespace std;
 
 int r, c;
 vector<vector<char>> board;
-vector<vector<pair<int, int>>> parent;
+vector<vector<int>> parent;
 vector<vector<int>> isused;
-vector<pair<int, int>> bird;
+vector<int> bird;
 int dx[] = { -1, 0, 1, 0 };
 int dy[] = { 0, 1, 0, -1 };
 
-pair<int, int> find_parent(pair<int, int> a) {
-	pair<int, int> p = parent[a.first][a.second];
-	if (a.first == p.first && a.second == p.second) return a;
-	return parent[a.first][a.second] = find_parent(p);
+int find_parent(int a) {
+	int i = a / c, j = a % c;
+	if (a == parent[i][j]) return a;
+	return parent[i][j] = find_parent(parent[i][j]);
 }
 
-void union_parent(pair<int, int> a, pair<int, int> b) {
+void union_parent(int a, int b) {
 	a = find_parent(a);
 	b = find_parent(b);
 	if (a < b) {
-		parent[b.first][b.second] = a;
+		parent[b / c][b % c] = a;
 	}
 	else {
-		parent[a.first][a.second] = b;
+		parent[a / c][a % c] = b;
 	}
 }
 
 // 물을 그룹대로 묶고 물에서 bfs해서 만난 X의 위치를 묶어 반환
-queue<pair<int, int>> boiling(queue<pair<int, int>> water) {
-	set<pair<int, int>> s;
-	while (!water.empty()) { // water 에는 새로 추가되지 않음!
-		auto cur = water.front(); water.pop();
+queue<int> boiling(queue<int> water) {
+	unordered_set<int> s;
+	while (!water.empty()) {
+		int cx = water.front() / c;
+		int cy = water.front() % c;
+		int c_key = water.front();
+		water.pop();
 
-		for (int i = 0; i < 4; i++) { // 인접한 곳 체크
-			int x = cur.first + dx[i];
-			int y = cur.second + dy[i];
+		for (int i = 0; i < 4; i++) {
+			int x = cx + dx[i];
+			int y = cy + dy[i];
 			if (x < 0 || y < 0 || x >= r || y >= c) continue;
 
-			pair<int, int> key = { x, y };
-			if (s.count(key)) continue; // 이미 다음에 녹을 곳임을 확인했음
-			if (board[x][y] == 'X') { // 다음에 녹을 곳이면
-				s.insert(key); // 반환 리스트에 넣고 
-				board[x][y] = '.'; // 녹은 거로 체크
+			int key = x * c + y;
+			if (s.count(key)) continue;
+			if (board[x][y] == 'X') {
+				s.insert(x * c + y);
+				board[x][y] = '.';
 				continue;
 			}
 
-			if (find_parent(key) == find_parent(cur)) continue; // 이미 방문했었음
-			isused[x][y] = 1; // 방문 체크
-			union_parent(key, cur); // 그룹을 합친다
+			if (find_parent(key) == find_parent(c_key)) continue;
+			isused[x][y] = 1;
+			union_parent(cx * c + cy, x * c + y);
 		}
 	}
-	queue<pair<int, int>> ans;
-	for (auto p : s) ans.push(p);
+	queue<int> ans;
+	for (int idx : s) {
+		ans.push(idx);
+	}
 	return ans;
+}
+
+void print() {
+	for (int i = 0; i < r; i++) {
+		for (int j = 0; j < c; j++) {
+			printf("%3d ", find_parent(i * c + j));
+		}
+		cout << "\n";
+	}
 }
 
 int main() {
@@ -66,17 +80,17 @@ int main() {
 
 	cin >> r >> c;
 	board.assign(r, vector<char>(c, '.'));
-	parent.assign(r, vector<pair<int, int>>());
-	queue<pair<int, int>> for_group;
+	parent.assign(r, vector<int>(c, 0));
+	queue<int> for_group;
 	for (int i = 0; i < r; i++) {
 		for (int j = 0; j < c; j++) {
 			cin >> board[i][j];
-			parent[i].push_back({ i, j }); // 자기 자신을 그룹으로
+			parent[i][j] = i * c + j; // 자기 자신을 그룹으로
 			if (board[i][j] != 'X') {
-				for_group.push({ i, j });
+				for_group.push(i * c + j);
 			}
 			if (board[i][j] == 'L') {
-				bird.push_back({ i, j });
+				bird.push_back(i * c + j);
 			}
 		}
 	}
@@ -88,6 +102,8 @@ int main() {
 	while (!for_group.empty() && find_parent(bird[0]) != find_parent(bird[1])) {
 		day++;
 		for_group = boiling(for_group);
+		//cout << "day " << day << "\n";
+		//print();
 	}
 	cout << day;
 }
