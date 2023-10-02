@@ -23,4 +23,4 @@
 | 응용 문제✔ | 1941 | [소문난 칠공주](https://www.acmicpc.net/problem/1941) | o |
 | 응용 문제✔ | 16987 | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | o |
 | 응용 문제 | 18809 | [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809) | o |
-| 응용 문제 | 1799 | [비숍](https://www.acmicpc.net/problem/1799) | x |
+| 응용 문제 | 1799 | [비숍](https://www.acmicpc.net/problem/1799) | o |
