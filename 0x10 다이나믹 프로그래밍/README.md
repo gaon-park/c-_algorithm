@@ -23,7 +23,7 @@
 | 기본 문제✔ | 15486 | [퇴사 2](https://www.acmicpc.net/problem/15486) | x |
 | 기본 문제✔ | 10844 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | x |
 | 기본 문제 | 2748 | [피보나치 수 2](https://www.acmicpc.net/problem/2748) | x |
-| 기본 문제 | 2240 | [자두나무](https://www.acmicpc.net/problem/2240) | x |
+| 기본 문제 | 2240 | [자두나무](https://www.acmicpc.net/problem/2240) | o |
 | 기본 문제 | 14002 | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | o |
 | 기본 문제 | 2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | x |
 | 기본 문제 | 15988 | [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) | x |
