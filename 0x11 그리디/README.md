@@ -17,7 +17,7 @@
 | 기본 문제 | 1439 | [뒤집기](https://www.acmicpc.net/problem/1439) | o |
 | 기본 문제 | 11000 | [강의실 배정](https://www.acmicpc.net/problem/11000) | o |
 | 기본 문제 | 15903 | [카드 합체 놀이](https://www.acmicpc.net/problem/15903) | x |
-| 응용 문제✔ | 2170 | [선 긋기](https://www.acmicpc.net/problem/2170) | x |
+| 응용 문제✔ | 2170 | [선 긋기](https://www.acmicpc.net/problem/2170) | o |
 | 응용 문제✔ | 1700 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | x |
 | 응용 문제 | 8980 | [택배](https://www.acmicpc.net/problem/8980) | x |
 | 응용 문제 | 7570 | [줄 세우기](https://www.acmicpc.net/problem/7570) | x |
