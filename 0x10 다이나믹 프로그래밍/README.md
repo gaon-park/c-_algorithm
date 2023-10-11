@@ -31,7 +31,7 @@
 | 기본 문제 | 11052 | [카드 구매하기](https://www.acmicpc.net/problem/11052) | x |
 | 기본 문제 | 9465 | [스티커](https://www.acmicpc.net/problem/9465) | x |
 | 기본 문제 | 11057 | [오르막 수](https://www.acmicpc.net/problem/11057) | x |
-| 기본 문제 | 2293 | [동전 1](https://www.acmicpc.net/problem/2293) | x |
+| 기본 문제 | 2293 | [동전 1](https://www.acmicpc.net/problem/2293) | o |
 | 기본 문제 | 1904 | [01타일](https://www.acmicpc.net/problem/1904) | x |
 | 기본 문제 | 1788 | [피보나치 수의 확장](https://www.acmicpc.net/problem/1788) | x |
 | 기본 문제 | 4883 | [삼각 그래프](https://www.acmicpc.net/problem/4883) | x |
