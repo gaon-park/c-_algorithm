@@ -25,7 +25,7 @@
 | 기본 문제 | 2748 | [피보나치 수 2](https://www.acmicpc.net/problem/2748) | x |
 | 기본 문제 | 2240 | [자두나무](https://www.acmicpc.net/problem/2240) | o |
 | 기본 문제 | 14002 | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | o |
-| 기본 문제 | 2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | x |
+| 기본 문제 | 2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | o |
 | 기본 문제 | 15988 | [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) | x |
 | 기본 문제 | 2302 | [극장 좌석](https://www.acmicpc.net/problem/2302) | x |
 | 기본 문제 | 11052 | [카드 구매하기](https://www.acmicpc.net/problem/11052) | x |
