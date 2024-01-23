@@ -16,7 +16,7 @@
 | 기본 문제 | 2847 | [게임을 만든 동준이](https://www.acmicpc.net/problem/2847) | o |
 | 기본 문제 | 1439 | [뒤집기](https://www.acmicpc.net/problem/1439) | o |
 | 기본 문제 | 11000 | [강의실 배정](https://www.acmicpc.net/problem/11000) | o |
-| 기본 문제 | 15903 | [카드 합체 놀이](https://www.acmicpc.net/problem/15903) | x |
+| 기본 문제 | 15903 | [카드 합체 놀이](https://www.acmicpc.net/problem/15903) | o |
 | 응용 문제✔ | 2170 | [선 긋기](https://www.acmicpc.net/problem/2170) | o |
 | 응용 문제✔ | 1700 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | x |
 | 응용 문제 | 8980 | [택배](https://www.acmicpc.net/problem/8980) | x |
